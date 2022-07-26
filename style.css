@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.center {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+.border {
+  border: 5px solid blue;
+  padding: 5px;
+  
+}
